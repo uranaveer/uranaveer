@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ranaveer-umeda-a03910256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ranaveer-umeda-a03910256" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ranaveer-umeda-a03910256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ranaveer-umeda-a03910256" height="30" width="40" /></a>
 <a href="https://kaggle.com/umedaranaveer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="umedaranaveer" height="30" width="40" /></a>
 <a href="https://instagram.com/ranaveer_u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranaveer_u" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/uranaveer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="uranaveer" height="30" width="40" /></a>
