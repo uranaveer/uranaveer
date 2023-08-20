@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umeda Ranaveer</h1>
-<h3 align="center">A passionate learner and thinker from India, exploring fields of tech. Intrested in Ml and Full-stack development.</h3>
+<h3 align="center">Hey there! I'm Umeda Ranaveer, and I absolutely love diving into anything tech-related. I'm a real enthusiast when it comes to learning about new technologies. My interests are split between two exciting areas: Machine Learning, which is all about teaching computers to be super smart, and Full Stack Development, where I get to create all sorts of cool stuff for the web. I'm not kidding when I say I'm a passionate learner – I just can't get enough of discovering new things in the tech world!</h3>
 
 - 🌱 I’m currently learning **Ml, and Web development**
 
