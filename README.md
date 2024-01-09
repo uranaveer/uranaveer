@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm  Umeda Ranaveer .A passionate learner and aspired engineer, exploring fields of tech. Intrested in ML and Full-stack development.<br><br>- 🔭 I’m currently a student at IIT Roorkee<br>- 📚 I'm currently learning ML and Web development<br>- ⚡ In my free time I generally spend my time watching movies.</p>
+<p align="left">I'm Ranaveer .A passionate learner and aspired engineer, exploring fields of tech. Intrested in ML & DL and Full-stack development.<br><br>- 🔭 I’m currently a student at IIT Roorkee<br>- 📚 I'm currently learning ML and Web development<br>- ⚡ In my free time I generally spend my time watching movies.</p>
 
 ###
 
